@@ -1,0 +1,19 @@
+/* Global additional styles */
+
+::selection {
+  background: #dfe2ff;
+  color: #312e81;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f3f8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c5c9d8;
+  border-radius: 10px;
+}
